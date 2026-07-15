@@ -35,9 +35,12 @@ app/src/main/java/com/jdca/proyectofinal/
 | ![Login](screenshots/login.png) | ![Registro](screenshots/registro.png) |
 
 ### Búsqueda de aulas y mapa
-| Menú principal | Buscador de Aula | Mapa interactivo |
+| Menú principal | Buscador de Aula | Info de Aula |
 |---|---|---|
-| ![Bienvenida](screenshots/bienvenida.png) | ![Buscador](screenshots/buscador-aula.png) | ![Mapa](screenshots/mapa.png) |
+| ![Bienvenida](screenshots/bienvenida.png) | ![Buscador](screenshots/buscador-aula.png) | ![Info](screenshots/buscador-aula.png) |
+| Menú principal | Buscador de Aula | Info de Aula |
+|---|---|---|
+| ![Mapa](screenshots/mapa.png) |
 
 ### Panel de administración
 | Listado de aulas (CRUD) | Agregar aula |
