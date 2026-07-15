@@ -39,7 +39,6 @@ app/src/main/java/com/jdca/proyectofinal/
 |---|---|---|
 | ![Bienvenida](screenshots/bienvenida.png) | ![Buscador](screenshots/buscador-aula.png) | ![Info](screenshots/aula-info.png) |
 | Buscador de Lab | Info de Lab | Mapa |
-|---|---|---|
 | ![Bienvenida](screenshots/buscador-lab.png) | ![Buscador](screenshots/lab-info.png) | ![Info](screenshots/mapa.png) |
 
 ### Panel de administración
