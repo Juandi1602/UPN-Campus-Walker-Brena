@@ -46,7 +46,6 @@ app/src/main/java/com/jdca/proyectofinal/
 |---|---|
 | ![Admin Aulas](screenshots/admin-aulas.png) | ![Agregar](screenshots/admin-agregar-aula.png) |
 | Listado de Labs (CRUD) | Agregar Lab |
-|---|---|
 | ![Admin Aulas](screenshots/admin-labs.png) | ![Agregar](screenshots/admin-agregar-lab.png) |
 
 ## 🚀 Cómo ejecutar el proyecto
