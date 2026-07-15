@@ -30,22 +30,25 @@ app/src/main/java/com/jdca/proyectofinal/
 ## 📸 Capturas de pantalla
 
 ### Autenticación
-| Login | Registro |
-|---|---|
-| ![Login](screenshots/login.png) | ![Registro](screenshots/registro.png) |
+| Menú | Login | Registro |
+|---|---|---|
+| ![Login](screenshots/menu.png) | ![Login](screenshots/login.png) | ![Registro](screenshots/registro.png) |
 
 ### Búsqueda de aulas y mapa
 | Menú principal | Buscador de Aula | Info de Aula |
 |---|---|---|
-| ![Bienvenida](screenshots/bienvenida.png) | ![Buscador](screenshots/buscador-aula.png) | ![Info](screenshots/buscador-aula.png) |
-| Menú principal | Buscador de Aula | Info de Aula |
+| ![Bienvenida](screenshots/bienvenida.png) | ![Buscador](screenshots/buscador-aula.png) | ![Info](screenshots/aula-info.png) |
+| Buscador de Lab | Info de Lab | Mapa |
 |---|---|---|
-| ![Mapa](screenshots/mapa.png) |
+| ![Bienvenida](screenshots/buscador-lab.png) | ![Buscador](screenshots/lab-info.png) | ![Info](screenshots/mapa.png) |
 
 ### Panel de administración
-| Listado de aulas (CRUD) | Agregar aula |
+| Listado de Aulas (CRUD) | Agregar Aula |
 |---|---|
-| ![Admin Aulas](screenshots/admin-aulas.png) | ![Agregar](screenshots/admin-agregar.png) |
+| ![Admin Aulas](screenshots/admin-aulas.png) | ![Agregar](screenshots/admin-agregar-aula.png) |
+| Listado de Labs (CRUD) | Agregar Lab |
+|---|---|
+| ![Admin Aulas](screenshots/admin-labs.png) | ![Agregar](screenshots/admin-agregar-lab.png) |
 
 ## 🚀 Cómo ejecutar el proyecto
 
