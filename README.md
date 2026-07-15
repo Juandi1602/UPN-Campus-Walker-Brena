@@ -35,7 +35,7 @@ app/src/main/java/com/jdca/proyectofinal/
 | ![Login](screenshots/login.png) | ![Registro](screenshots/registro.png) |
 
 ### Búsqueda de aulas y mapa
-| Menú principal | Info de aula | Mapa interactivo |
+| Menú principal | Buscador de Aula | Mapa interactivo |
 |---|---|---|
 | ![Bienvenida](screenshots/bienvenida.png) | ![Buscador](screenshots/buscador-aula.png) | ![Mapa](screenshots/mapa.png) |
 
